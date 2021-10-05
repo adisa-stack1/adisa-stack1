@@ -1,5 +1,5 @@
 👋 
-Hi, I’m @adisa-stack1, but you can call me Adisa :).
+Hi, I’m @ooneadisa, but you can call me Adisa :).
 
 👀 
 I’m interested in working on Fullstack Web Development projects for potential clients and colleagues.
